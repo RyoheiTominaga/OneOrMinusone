@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    int max = 100;
+    const int max = 100;
     int rNum = 0;
     int num = 0;
     for (int i = 0;i < max;++i) {
